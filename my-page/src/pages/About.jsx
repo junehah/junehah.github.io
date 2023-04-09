@@ -9,7 +9,6 @@ const About = () => {
         <img src={reactLogo} alt="reactLogo"/>
       </Link>
     </div>
-
   )
 }
 
