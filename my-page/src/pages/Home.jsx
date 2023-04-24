@@ -8,7 +8,7 @@ const home = () => {
     <div className="home-page">
     <header className="App-header">
       <div>June Hah</div>
-      <div className="brief-description">I'm a Full Stack Engineer and a Gamer who has passion for automation</div>
+      <div className="brief-description">I'm a Full Stack Engineer who has a passion for automation, fundamental understandings and puns</div>
       <div className="button-container">
         <Link to="about">
           <i class="fa-solid fa-user"></i>
